@@ -62,5 +62,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/neel-machine/Website_traffic_analysis)
 
-<div style="text-align: justify"></div>
-<br>
+<div id = "jump" style="text-align: justify">This project analyzes clicks from a website that hosts songs. Through data analysis I answer the following questions 
+1. What is the CTR (Click through rate), clicks per pageviews.
+2. What are the countries that have highest views and clicks
+3. Is there any correlation between clicks and views</div><br>

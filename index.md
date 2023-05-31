@@ -5,7 +5,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 ### Fake Reviews Detection
 
-[![View on GitHub](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://github.com/neel-machine/Project/blob/main/fake_reviews_using_bert_embeddings_and_lstm%20(1).ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/neel-machine/Project/blob/main/fake_reviews_using_bert_embeddings_and_lstm%20(1).ipynb)
 
 <div style="text-align: justify">Order the most popular item from a website and it turns out to be a cheap replica , happened to us all hasn't it? This project uses transfer learning techniques to identify fake reviews on a e-commerce website. 
 </div>

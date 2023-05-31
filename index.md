@@ -54,8 +54,13 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 ---
 
-<div id = "Micro" style="text-align: justify">## Micro Projects </div>
+<div id = "Micro" style="text-align: justify;font-weight:bold;font-size:25px">Micro Projects </div>
 
 
- Coming soon
+### Website Traffic Analysis
 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/neel-machine/Website_traffic_analysis)
+
+<div style="text-align: justify"></div>
+<br>

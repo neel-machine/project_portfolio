@@ -47,7 +47,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/neel-machine/Churn-analysis-and-prediction/blob/main/telecom_churn_case_study.ipynb)
 
-<div id = "jump" style="text-align: justify">One of the biggest problem telecom industry tackles, CHURN !! . This project implements PCA for feature reduction , handles class imbalance problem, builds ensemble models and fine-tunes hyperparameters.</div>
+<div style="text-align: justify">One of the biggest problem telecom industry tackles, CHURN !! . This project implements PCA for feature reduction , handles class imbalance problem, builds ensemble models and fine-tunes hyperparameters.</div>
 <br>
 <center><img src="images/credit_card.png"/></center>
 <br>
@@ -62,7 +62,9 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/neel-machine/Website_traffic_analysis)
 
-<div id = "jump" style="text-align: justify">This project analyzes clicks from a website that hosts songs. Through data analysis I answer the following questions 
-1. What is the CTR (Click through rate), clicks per pageviews.
-2. What are the countries that have highest views and clicks
-3. Is there any correlation between clicks and views</div><br>
+<div style="text-align: justify">This project analyzes clicks from a website that hosts songs. Through data analysis I answer the following questions 
+  <ol>
+    <li>What is the CTR (Click through rate), clicks per pageviews.</li>
+    <li>What are the countries that have highest views and clicks.</li>
+    <li>Is there any correlation between clicks and views.</li>
+  </ol>

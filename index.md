@@ -2,6 +2,7 @@
 ---
 A bird's eye view of some of the projects I have worked upon in my datascience journey. I update this from time to time as I continue working on some cool projects in my free time.
 
+[Jump]<a href="#jump">Jump</a>
 ---
 
 ### Fake Reviews Detection
@@ -43,7 +44,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/neel-machine/Churn-analysis-and-prediction/blob/main/telecom_churn_case_study.ipynb)
 
-<div style="text-align: justify">One of the biggest problem telecom industry tackles, CHURN !! . This project implements PCA for feature reduction , handles class imbalance problem, builds ensemble models and fine-tunes hyperparameters.</div>
+<div id = "jump" style="text-align: justify">One of the biggest problem telecom industry tackles, CHURN !! . This project implements PCA for feature reduction , handles class imbalance problem, builds ensemble models and fine-tunes hyperparameters.</div>
 <br>
 <center><img src="images/credit_card.png"/></center>
 <br>

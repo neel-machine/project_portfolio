@@ -2,7 +2,7 @@
 ---
 A bird's eye view of some of the projects I have worked upon in my datascience journey. I update this from time to time as I continue working on some cool projects in my free time.
 
-<div id = "NLP" style="text-align: justify">## NLP Projects </div>
+<div id = "NLP" style="text-align: justify;font-size:18px">NLP Projects </div>
 ---
 
 ### Fake Reviews Detection

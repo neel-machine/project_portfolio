@@ -2,7 +2,7 @@
 ---
 A bird's eye view of some of the projects I have worked upon in my datascience journey. I update this from time to time as I continue working on some cool projects in my free time.
 
-[Jump]<a href="#jump">Jump</a>
+<div id = "NLP" style="text-align: justify">## NLP Projects </div>
 ---
 
 ### Fake Reviews Detection
@@ -15,6 +15,9 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 <center><img src="images/Fake_Reviews.jpeg"/></center>
 
 ---
+<div id = "MLProj" style="text-align: justify">## Machine Learning Projects </div>
+
+
 
 ### Appstore reviews segregation to extract actionable insights
 
@@ -50,3 +53,9 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 <br>
 
 ---
+
+<div id = "Micro" style="text-align: justify">## Micro Projects </div>
+
+
+ Coming soon
+

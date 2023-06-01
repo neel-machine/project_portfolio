@@ -15,7 +15,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 <center><img src="images/Fake_Reviews.jpeg"/></center>
 
 ---
-<div id = "MLProj" style="text-align: justify">## Machine Learning Projects </div>
+<div id = "MLProj" style="text-align: justify;font-weight:bold;font-size:25px">Machine Learning Projects </div>
 
 
 

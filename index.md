@@ -16,7 +16,8 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 ---
 <div id = "MLProj" style="text-align: justify;font-weight:bold;font-size:25px">Machine Learning Projects </div>
-
+<br>
+---
 
 
 ### Appstore reviews segregation to extract actionable insights
